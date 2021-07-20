@@ -41,3 +41,4 @@ Essas foram as tecnologias utilizadas para a produção da página
 - ✔ useState
 - ✔ CSS
 - ✔ HTML
+- ✔ APIs de webservices

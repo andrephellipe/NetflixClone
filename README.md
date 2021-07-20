@@ -5,6 +5,7 @@
 </h1>
  <br>
  <p align="center">Este site é um clone do netflix para fins de prática e estudo.<br> Todo direito de imagem pertencem a Netflix.</p>
+  <p align="center">Vídeo demonstrativo direto no <a href="https://www.linkedin.com/feed/update/urn:li:activity:6806766677452238848/" target="_blank">link</a> do LinkedIn</p>
 
 ## 1º Funcionalidade - Animação Barra do Topo
 <p>Mudança gradual da barra no topo do site, que é apresentada após fazer um leve scroll para baixo</p>
